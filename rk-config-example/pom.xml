@@ -10,6 +10,11 @@
 	<artifactId>rk-config-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rk-config-example</name>
+
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
